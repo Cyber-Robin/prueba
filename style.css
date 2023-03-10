@@ -5,5 +5,9 @@ body{
 }
 p{
     color: #975252;
-    font-size: large
+    font-size: large;
+    margin: auto;
+    width: 300px;
+    text-align: justify;
+    border: 1px solid black;
 }
